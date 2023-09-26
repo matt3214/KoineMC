@@ -4,7 +4,7 @@ This project contains an algorith which translates the English Minecraft lang fi
 # Purpose
 As a Christian, I want to become more familiar with God through His Holy Word. The New Testament is written in Koine Greek. 
 
-Along with spoken and grammar training, I want to grow in familiarity with this language by immersing myself in a world that has comprehensible input avaialble within every square_(or cube!)_-meter. 
+Along with spoken and grammar training, I want to grow in familiarity with this language by immersing myself in a world that has comprehensible input avaialble within every square/cube-meter. 
 
 # The Specifics
 
