@@ -1,5 +1,5 @@
 # KoineMC
-This project contains an algorith which translates the English Minecraft lang file into one based on Koine-era Greek using OpenAI APIs.
+This project contains an algorithm which translates the English Minecraft lang file into one based on Koine-era Greek using OpenAI APIs.
 
 # Purpose
 As a Christian, I want to become more familiar with God through His Holy Word. The New Testament is written in Koine Greek. 
