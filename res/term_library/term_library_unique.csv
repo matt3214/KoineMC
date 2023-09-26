@@ -1,0 +1,519 @@
+term,translation
+narrator,ἐρμηνευτής
+accessibility,προσβασιμότης
+server,διακομιστής
+address,διεύθυνση
+resource pack,πακέτο πόρων
+disabled,ἀναπηρία
+enabled,ενεργοποιημένο
+prompt,προτροπή
+advancement,πρόοδος
+biome,βιότοπος
+crossbow,ἀρβαλίστης
+sneak,λάθρα
+target,στόχος
+village,χωριό
+raid,ἐπιδρομή
+honey block,μπλοκ μελιού
+monster,τέρας
+lightning rod,κεραυνοβόλος
+jukebox,μουσικό κουτί
+bookshelf,βιβλιοθήκη
+arrow,βέλος
+bed,κλίνη
+skeleton,σκελετός
+spyglass,τηλεσκόπιο
+ender dragon,δράκος του τέλους
+ghast,φάντασμα
+parrot,παπαγάλος
+iron golem,σίδερο γολέμ
+trident,τρίαινα
+totem,τοτέμ
+phantom,φάντασμα
+leather boots,δερμάτινες μπότες
+pillager,λεηλάτης
+powder snow,σκόνη χιονιού
+name,τὸ ὄνομα
+mob,τὸ θηρίον
+sculk sensor,ὁ αἰσθητήρ σκάλκου
+warden,ὁ φύλαξ
+pot,ὁ χύτρος
+pottery sherds,τὰ κεραμικὰ συντρίμματα
+sculk catalyst,ὁ καταλύτης σκάλκου
+villager,ὁ κωμίτης
+totem of undying,τὸ τότεμ τῆς ἀθανασίας
+rabbit,ὁ λαγός
+dragon's breath,ἡ πνοὴ τοῦ δράκοντος
+dragon egg,τὸ ᾠὸν τοῦ δράκοντος
+elytra,τὰ ἔλυτρα
+end gateway,ἡ πύλη τοῦ τέλους
+end city,ἡ πόλις τοῦ τέλους
+shulker,ὁ σκελετός
+allay,ὁ ἀλλαγή
+axolotl,ὁ ἀξολότλ
+cake,ἡ πάστα
+note block,ὁ μουσικὸς λίθος
+fish,ἡ ἰχθύς
+froglights,τὰ φῶτα τῶν βατράχων
+frog,ὁ βάτραχος
+netherite hoe,ἡ διαστροφὴ τοῦ νεθερίτου
+sniffer egg,τὸ ᾠὸν τοῦ σνίφερ
+seed,ὁ σπόρος
+boat,τὸ πλοῖον
+goat,ἡ αἴξ
+beehive,ὁ κηρήθρα
+bee,ὁ μέλισσα
+fish rod,ἡ ἄγκιστρον
+tadpole,ὁ βρόχος
+animal,τὸ ζῷον
+copper block,ὁ χαλκοῦς λίθος
+honeycomb,ὁ κηρὸς
+potion,τὸ φάρμακον
+beacon,ὁ διάκριτος
+piglin,ὁ πίγλιν
+nether,ὁ νεθερ
+bastion,ὁ βαστίων
+fortress,ὁ φρούριον
+wither skeleton,ὁ σκελετὸς τοῦ ξηραίνοντος
+netherite armor,ἡ πανοπλία τοῦ νεθερίτου
+ancient debris,τὰ ἀρχαῖα ἐρείπια
+blaze rod,ἡ ῥάβδος τοῦ φλογίζοντος
+crying obsidian,ὁ κλαίων ὀβσιδιανός
+strider,ὁ στράιντερ
+wither,ὁ ξηραίνων
+lodestone,ὁ λίθος τοῦ λοδ
+zombie villager,ὁ ζόμπι κάτοικος
+shield,ὁ ἀσπίς
+enchanting table,ἡ τράπεζα τῆς γοητείας
+end portal,ἡ πύλη τοῦ τέλους
+nether portal,ἡ πύλη τοῦ νεθερ
+eye of ender,ὁ ὀφθαλμὸς τοῦ τέλους
+obsidian,ὁ ὀβσιδιανός
+pickaxe,ἡ πέλεκυς
+bucket,ὁ πίθος
+diamond,ὁ διάμαντας
+stone,ὁ λίθος
+iron armor,ἡ σιδηρᾶ πανοπλία
+diamond armor,ἡ διαμαντένια πανοπλία
+iron ingot,ὁ σιδηροῦς ἄρσην
+bossbar,ἡ ῥάβδος τοῦ ἄρχοντος
+commands,τὰ ἐντολά
+blocks,τὰ τετράγωνα
+clone,τὸ κλώνος
+damage,ἡ βλάβη
+data,τὰ δεδομένα
+datapack,τὸ πακέτο δεδομένων
+debug,ἡ αποσφαλμάτωση
+difficulty,ἡ δυσκολία
+effect,τὸ ἐφέ
+enchant,ἡ ἐπιθυμία
+entity,τὸ ὄν
+execute,ἡ ἐκτέλεση
+failed,ἀπέτυχε
+function,ἡ λειτουργία
+invalid,ἄκυρος
+item,τὸ ἀντικείμενο
+list,ἡ λίστα
+modify,ἡ τροποποίηση
+numeric,ἀριθμητικός
+overlap,ἡ ἐπικάλυψη
+player,ὁ παίκτης
+query,ἡ ἐρώτηση
+remove,ἡ αφαίρεση
+scale,ἡ κλίμακα
+storage,ἡ αποθήκευση
+success,ἡ εὐδοκία
+unknown,ἄγνωστος
+visible,ὁρατός
+whitelist,ἡ λευκὴ κατάλογος
+reload,ἡ ἀναφόρτωση
+world border,τὸ ὅριο τοῦ κόσμου
+block,ὁ λίθος
+warning,ἡ προειδοποίηση
+time,ὁ χρόνος
+playtime,ὁ χρόνος παιχνιδιοῦ
+barrel,ὁ πίθος
+furnace,ἡ κάμινος
+chest,ἡ κιβωτός
+crafting,ἡ τεχνουργία
+dispenser,ὁ διανομέας
+inventory,ὁ κατάλογος
+locked,κλειδωμένος
+repair,ἡ ἐπισκευή
+controls,τὰ ἐλέγχια
+reset,ἡ ἐπαναφορά
+depth,ἡ βάθος
+burned to death,κατεκάη εἰς θάνατον
+fighting,μαχόμενος
+world,ὁ κόσμος
+fell out of the world,ἔπεσεν ἔξω τοῦ κόσμου
+slain,ἀπεκτάνθη
+sonically-charged shriek,ἡ ἠχητικῶς φορτισμένη κραυγή
+stalagmite,ὁ σταλαγμίτης
+starved to death,ἐπείνασεν εἰς θάνατον
+stung to death,ἐκέντησεν εἰς θάνατον
+sweet berry bush,ἡ γλυκεῖα βάτος βερύκοκου
+with,τὸ μαρασμός
+no effects,οὐδεὶς ἔφεδρος
+level,ὁ βαθμός
+aqua affinity,ἡ ὑδάτινος συγγένεια
+bane of arthropods,ἡ ἀπώλεια τῶν ἀρθροπόδων
+curse of binding,ἡ κατάρα τοῦ δεσμοῦ
+blast protection,ἡ προστασία ἐκρήξεως
+channeling,ὁ καναλισμός
+depth strider,ὁ βαθυπορευτής
+efficiency,ἡ ἐπάρκεια
+feather falling,ἡ πτώση πτεροῦ
+fire aspect,ὁ πυρινός ὄψις
+fire protection,ἡ πυρὸς προστασία
+flame,ἡ φλόξ
+fortune,ἡ τύχη
+frost walker,ὁ παγετοῦ περιπατητής
+impaling,ὁ ἐκκεντητής
+infinity,ἡ ἀπειρία
+knockback,ὁ ἀναπήδησις
+looting,ἡ λεηλασία
+loyalty,ἡ πίστις
+luck of the sea,ἡ τύχη τῆς θαλάσσης
+lure,ὁ δέλεαρ
+mending,ἡ ἐπισκευή
+multishot,ἡ πολυβολία
+piercing,ὁ διατρητής
+power,ἡ δύναμις
+projectile protection,ἡ προστασία βέλους
+protection,ἡ προστασία
+punch,ὁ πληγή
+quick charge,ἡ ταχεῖα φόρτιση
+respiration,ἡ ἀναπνοή
+riptide,ὁ ῥοῖχμος
+sharpness,ἡ ὀξύτης
+silk touch,ἡ ἁπαλή ἅφη
+smite,ὁ πληγείς
+soul speed,ἡ ταχύτης ψυχῆς
+sweeping edge,ὁ σάρων ἄκρος
+swift sneak,ὁ ταχύς λαθραῖος
+thorns,τὰ ἄκανθα
+unbreaking,ἡ ἀνυπέρθραυστος
+curse of vanishing,ἡ κατάρα τοῦ ἐξαφανισμοῦ
+area effect cloud,ἡ νεφέλη τῆς περιοχῆς ἐπίδρασης
+armor stand,ὁ στάντ ἀρματωσίας
+bat,ἡ νυκτερίς
+blaze,ἡ φλόγα
+block display,ἡ ἐμφάνιση μπλοκ
+camel,ὁ κάμηλος
+cat,ἡ γάτα
+cave spider,ὁ σπηλαιώδης ἀράχνη
+boat with chest,τὸ πλοῖον μετὰ κιβωτίου
+minecart with chest,ἡ ἀμαξίδιον μεταλλείου μετὰ κιβωτίου
+chicken,ἡ ὄρνις
+cod,ὁ γάδος
+minecart with command block,ἡ ἀμαξίδιον μεταλλείου μετὰ τοῦ μπλοκ ἐντολῶν
+cow,ἡ βοῦς
+creeper,ὁ ἐρπετόν
+dolphin,ὁ δελφίς
+donkey,ὁ ὄνος
+dragon fireball,ἡ πυροσφαῖρα δράκοντος
+drowned,ὁ πνιγείς
+thrown egg,τὸ βεβλημένον ᾠόν
+elder guardian,ὁ πρεσβύτερος φύλαξ
+end crystal,ὁ κρύσταλλος τέλους
+thrown ender pearl,ἡ βεβλημένη μαργαρίτη τοῦ ἔνδερ
+enderman,ὁ ἄνθρωπος τοῦ ἔνδερ
+endermite,ὁ ἔνδερμιτ
+evoker,ὁ ἐπικαλεστής
+evoker fangs,τὰ ὀδόντια τοῦ ἐπικαλεστοῦ
+thrown bottle o' enchanting,ἡ βεβλημένη φιάλη τοῦ ἐπαοιδοῦ
+experience orb,ὁ σφαῖρος ἐμπειρίας
+falling block,τὸ πίπτον μπλοκ
+falling %s,πίπτον %s
+fireball,ἡ πυροσφαῖρα
+firework rocket,ὁ πυροτεχνηματικὸς πύραυλος
+fishing bobber,ὁ ἀλιευτικὸς πλωτήρ
+fox,ἡ ἀλώπηξ
+minecart with furnace,ἡ ἀμαξίδιον μεταλλείου μετὰ καμίνου
+giant,ὁ γίγας
+glow item frame,ὁ φωτεινὸς κορνίζα ἀντικειμένου
+glow squid,ὁ φωτεινὸς σουπία
+guardian,ὁ φύλαξ
+hoglin,ὁ ὕς
+minecart with hopper,ἡ ἀμαξίδιον μεταλλείου μετὰ ἐκχωρητή
+horse,ὁ ἵππος
+husk,ὁ κελύφος
+illusioner,ὁ φαντασιοποιός
+interaction,ἡ ἐπαφή
+item display,ἡ ἐμφάνιση ἀντικειμένου
+item frame,ἡ κορνίζα ἀντικειμένου
+the killer bunny,ὁ λαγός ὁ φονεύς
+leash knot,ὁ δεσμὸς λεύκης
+lightning bolt,ὁ κεραυνός
+llama,ἡ λάμα
+llama spit,ὁ πτύον λάμας
+magma cube,ὁ κύβος μάγματος
+marker,ὁ σημειωτής
+minecart,ἡ ἀμαξίδιον μεταλλείου
+mooshroom,ὁ βοῦς μύκητος
+mule,ὁ ἡμίονος
+ocelot,ὁ ὀσελότ
+painting,ἡ ζωγραφιά
+panda,ὁ πάνδα
+pig,ὁ ὗς
+piglin brute,ὁ ὗς ὁ ἄγριος
+polar bear,ὁ ἄρκτος
+pufferfish,ὁ τετραόδοντος
+ravager,ὁ λυμαινόμενος
+salmon,ὁ σάλμων
+sheep,ἡ πρόβατον
+entities,τὰ ὄντα
+pillager patrols,αἱ ληστῶν περιπολίαι
+resource drops,τὰ ῥιπτόμενα πόρων
+wandering traders,οἱ πλανώμενοι ἔμποροι
+vines,αἱ ἄμπελοι
+wardens,οἱ φύλακες
+weather,ὁ καιρός
+drowning damage,ἡ βλάβη πνιγμοῦ
+fall damage,ἡ βλάβη πτώσεως
+minutes,τὰ λεπτά
+character limit,ὁ ὅριο χαρακτήρων
+button,τὸ κουμπί
+edit box,τὸ κουτί επεξεργασίας
+slider,ὁ κυλιόμενος διακόπτης
+tab,ἡ καρτέλα
+no,οὐ
+none,οὐδείς
+ok,εὖ
+proceed,προχωρῶ
+recipebook,τὸ βιβλίο συνταγών
+search hint,ἀναζήτηση...
+showing all,δεικνύων πάντα
+showing blastable,δεικνύων ἐκρηκτικά
+showing craftable,δεικνύων κατασκευάσιμα
+showing smeltable,δεικνύων τηκτά
+showing smokable,δεικνύων καπνιζόμενα
+social interactions,αἱ κοινωνικαὶ διαδράσεις
+blocked,ἀποκλεισμένος
+hidden,κρυμμένος
+offline,ἐκτός σύνδεσης
+report,ἀναφέρω
+statistics,αἱ στατιστικαί
+back to server list,πίσω εἰς τὴν λίσταν τῶν διακομιστῶν
+back to realms list,πίσω εἰς τὴν λίσταν τῶν βασιλείων
+back to title screen,πίσω εἰς τὴν οθόνην τοῦ τίτλου
+back to world list,πίσω εἰς τὴν λίσταν τῶν κόσμων
+up,ἄνω
+yes,ναί
+edit hanging sign message,ἐπεξεργάζομαι τὸ μήνυμα τοῦ κρεμαστοῦ σημείου
+admire,θαυμάζω
+call,καλῶ
+dream,ὁνειρεύομαι
+feel,αἰσθάνομαι
+ponder,στοχάζομαι
+seek,ζητῶ
+sing,ᾄδω
+yearn,ἐπιθυμῶ
+apple,τὸ μῆλον
+bucket of axolotl,ὁ πίθος τοῦ αξολότλ
+baked potato,ἡ ὀπτὴ πατάτα
+bamboo raft,ἡ βάρκα τοῦ βαμβού
+bat spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ νυκτερίδος
+bee spawn egg,τὸ ᾠὸν τῆς γεννήσεως τῆς μέλισσας
+raw beef,ὁ ὠμὸς βοῦς
+beetroot,ἡ παντζάρια
+beetroot seeds,τὰ σπέρματα τῆς παντζαριᾶς
+beetroot soup,ἡ σούπα τῆς παντζαριᾶς
+birch boat,ἡ βάρκα τῆς λεύκης
+black dye,τὸ μέλαν βάμμα
+blaze powder,ἡ σκόνη τῆς φλόγας
+blue dye,τὸ κυάνεον βάμμα
+bone,τὸ ὀστοῦν
+bone meal,ἡ σκόνη τοῦ ὀστοῦ
+book,τὸ βιβλίον
+bow,τὸ τόξον
+bowl,ἡ φιάλη
+bread,ὁ ἄρτος
+brewing stand,ὁ στάντης τῆς ζύμωσης
+brick,ὁ πλίνθος
+brown dye,τὸ φαιόν βάμμα
+brush,ἡ βούρτσα
+bundle,ἡ δέσμη
+carrot,ἡ καρότον
+carrot on a stick,ἡ καρότον ἐπὶ ῥάβδου
+cat spawn egg,τὸ ᾠὸν τῆς γεννήσεως τῆς γάτας
+cauldron,ὁ λέβης
+cave spider spawn egg,τὸ ᾠὸν τῆς γεννήσεως τῆς σπηλαιώδους ἀράχνης
+chainmail boots,τὰ ὑποδήματα τῆς καδένας
+chainmail chestplate,ἡ θώρακας τῆς καδένας
+chainmail helmet,ὁ κράνος τῆς καδένας
+chainmail leggings,τὰ περισκελίδια τῆς καδένας
+charcoal,ὁ ἄνθρακας
+cherry boat,ἡ βάρκα τῆς κερασιᾶς
+chest minecart,ὁ ἀμαξίδιον τῆς κιβωτοῦ
+raw chicken,ὁ ὠμὸς ὄρνις
+chicken spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ ὀρνίθος
+chorus fruit,ὁ καρπὸς τοῦ χοροῦ
+clay ball,ὁ σφαῖρος τοῦ πηλοῦ
+clock,ὁ χρονόμετρον
+coal,ὁ ἄνθρακας
+cocoa beans,τὰ κόκκοι τοῦ κακάο
+raw cod,ὁ ὠμὸς γάδος
+bucket of cod,ὁ πίθος τοῦ γάδου
+cod spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ γάδου
+compass,ἡ πυξίς
+steak,ὁ στέακ
+cooked chicken,ὁ ὀπτὸς ὄρνις
+cooked cod,ὁ ὀπτὸς γάδος
+cooked mutton,ὁ ὀπτὸς κριός
+cooked porkchop,ὁ ὀπτὸς χοιρίς
+cooked rabbit,ὁ ὀπτὸς λαγός
+cooked salmon,ὁ ὀπτὸς σαλμών
+cookie,τὸ μπισκότο
+copper ingot,ὁ ἄργυρος τοῦ χαλκοῦ
+cow spawn egg,τὸ ᾠὸν τῆς γεννήσεως τῆς βοός
+creeper spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ κρίπερ
+cyan dye,τὸ κυανὸν βάμμα
+dark oak boat,ἡ βάρκα τῆς σκοτεινῆς δρυός
+diamond axe,ὁ πέλεκυς τοῦ διαμαντιοῦ
+diamond boots,τὰ ὑποδήματα τοῦ διαμαντιοῦ
+diamond chestplate,ἡ θώρακας τοῦ διαμαντιοῦ
+diamond helmet,ὁ κράνος τοῦ διαμαντιοῦ
+diamond hoe,ἡ ἄροτρον τοῦ διαμαντιοῦ
+diamond horse armor,ἡ πανοπλία τοῦ ἵππου τοῦ διαμαντιοῦ
+diamond leggings,τὰ περισκελίδια τοῦ διαμαντιοῦ
+diamond pickaxe,ἡ πίκα τοῦ διαμαντιοῦ
+diamond shovel,ἡ σκαπάνη τοῦ διαμαντιοῦ
+diamond sword,ἡ μάχαιρα τοῦ διαμαντιοῦ
+dolphin spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ δελφίνου
+donkey spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ ὄνου
+dried kelp,ὁ ξηρὸς φύκος
+drowned spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ πνιγμένου
+egg,τὸ ᾠὸν
+elder guardian spawn egg,τὸ ᾠὸν τῆς γεννήσεως τοῦ πρεσβυτέρου φύλακος
+emerald,ὁ σμάραγδος
+frog spawn egg,τὸ ᾠὸν τοῦ βατράχου
+furnace minecart,ὁ ἀμαξίδιον μετὰ καμίνου
+ghast spawn egg,τὸ ᾠὸν τοῦ φαντάσματος
+ghast tear,τὸ δάκρυον τοῦ φαντάσματος
+glass bottle,ἡ φιάλη ὑάλινη
+glistering melon slice,ἡ λαμπρὰ κομμάτιον τοῦ πεπονιοῦ
+globe banner pattern,τὸ σχέδιον τοῦ σημαίου τῆς γῆς
+glow berries,τὰ φωσφορούμενα βάτα
+glow ink sac,ὁ φωσφορούμενος σάκκος μελάνος
+glow item frame,ὁ φωσφορούμενος κορνίζα τοῦ ἀντικειμένου
+glow squid spawn egg,τὸ ᾠὸν τοῦ φωσφορούμενου τευθύος
+glowstone dust,ἡ κόνις τοῦ φωσφορούμενου λίθου
+goat horn,ὁ κέρας τῆς αἰγός
+goat spawn egg,τὸ ᾠὸν τῆς αἰγός
+gold ingot,ὁ χρυσοῦς ἄρσην
+gold nugget,ὁ χρυσοῦς ὀβελίσκος
+golden apple,ἡ χρυσῆ μῆλον
+golden axe,ἡ χρυσῆ πέλεκυς
+golden boots,τὰ χρυσᾶ ὑποδήματα
+golden carrot,ἡ χρυσῆ καρότον
+golden chestplate,ἡ χρυσῆ θώραξ
+golden helmet,ὁ χρυσοῦς κράνος
+golden hoe,ἡ χρυσῆ ἄροτρον
+golden horse armor,ἡ χρυσῆ πανοπλία τοῦ ἵππου
+golden leggings,τὰ χρυσᾶ ἀναξυρίδες
+golden pickaxe,ἡ χρυσῆ πίκαξ
+golden shovel,ἡ χρυσῆ σκαπάνη
+golden sword,ἡ χρυσῆ ξίφος
+gray dye,ὁ γκρίζος βαφή
+green dye,ὁ πράσινος βαφή
+guardian spawn egg,τὸ ᾠὸν τοῦ φύλακος
+gunpowder,ἡ πυρίτιδα
+heart of the sea,ἡ καρδία τῆς θαλάσσης
+heart pottery shard,ἡ καρδιά τοῦ οστράκου τῆς κεραμικῆς
+heart pottery sherd,ἡ καρδιά τοῦ οστράκου τῆς κεραμικῆς
+heartbreak pottery shard,ἡ καρδιά τοῦ οστράκου τῆς κεραμικῆς τῆς συνθλίψεως
+heartbreak pottery sherd,ἡ καρδιά τοῦ οστράκου τῆς κεραμικῆς τῆς συνθλίψεως
+hoglin spawn egg,τὸ ᾠὸν τοῦ συῶν
+honey bottle,ἡ φιάλη τοῦ μέλιτος
+hopper minecart,ὁ ἀμαξίδιον μετὰ τοῦ ἐκβολέως
+horse spawn egg,τὸ ᾠὸν τοῦ ἵππου
+howl pottery shard,ἡ ὠρυγή τοῦ οστράκου τῆς κεραμικῆς
+howl pottery sherd,ἡ ὠρυγή τοῦ οστράκου τῆς κεραμικῆς
+husk spawn egg,τὸ ᾠὸν τοῦ κελύφους
+ink sac,ὁ σάκκος μελάνος
+iron axe,ἡ σιδηρᾶ πέλεκυς
+iron boots,τὰ σιδηρᾶ ὑποδήματα
+iron chestplate,ἡ σιδηρᾶ θώραξ
+iron golem spawn egg,τὸ ᾠὸν τοῦ σιδηροῦ γολέμ
+iron helmet,ὁ σιδηροῦς κράνος
+iron hoe,ἡ σιδηρᾶ ἄροτρον
+iron horse armor,ἡ σιδηρᾶ πανοπλία τοῦ ἵππου
+iron ingot,ὁ σιδηροῦς ἄρσην
+iron leggings,τὰ σιδηρᾶ ἀναξυρίδες
+iron nugget,ὁ σιδηροῦς ὀβελίσκος
+iron pickaxe,ἡ σιδηρᾶ πίκαξ
+iron shovel,ἡ σιδηρᾶ σκαπάνη
+iron sword,ἡ σιδηρᾶ ξίφος
+item frame,ἡ κορνίζα τοῦ ἀντικειμένου
+jungle boat,ὁ πλοῖον τῆς ζούγκλας
+jungle chest boat,ὁ πλοῖον τῆς ζούγκλας μετὰ κιβωτίου
+knowledge book,τὸ βιβλίον τῆς γνώσεως
+lapis lazuli,ὁ λάπις λαζούλι
+lava bucket,ὁ πυρίκαυστος πίθος
+port,ὁ λιμήν
+available,διαθέσιμος
+scanning,ἡ σάρωση
+start,ἀρχή
+privacy,ἡ ἰδιωτικότητα
+update,ἡ ενημέρωση
+activity,ἡ δραστηριότητα
+download,ἡ λήψη
+restore,ἡ ἀποκατάσταση
+upload,ἡ ανέβασμα
+changes,οἱ ἀλλαγές
+backup,ἡ αντιγραφή ασφαλείας
+description,ἡ περιγραφή
+mode,ὁ τρόπος
+version,ἡ ἔκδοση
+template,τὸ πρότυπο
+undefined,ἀόριστος
+uploaded,ἀνέβηκε
+type,ὁ τύπος
+generate,ἡ παραγωγή
+restoring,ἡ ἀποκατάσταση
+joining,ἡ συμμετοχή
+loading,ἡ φόρτωση
+done,τετελεσμένο
+object,τὸ ἀντικείμενο
+screen,ἡ οθόνη
+ready to play,ἕτοιμος πρὸς παίζειν
+title screen,ἡ οθόνη τίτλου
+select,ἐπιλέγω
+optimize,ὁ βελτιστοποίηση
+confirm,ἡ επιβεβαίωση
+finished,τελείωσε
+upgrading,ἡ ἀναβάθμιση
+high contrast,ὁ ὑψηλὸς ἀντίθεσις
+panorama,τὸ πανόραμα
+text background,ὁ φόντος κειμένου
+chat,ἡ συνομιλία
+everywhere,πανταχοῦ
+settings,τὰ ρυθμίσματα
+allow,ἐπιτρέπω
+listings,τὰ καταλόγια
+edit,ἐπεξεργάζομαι
+sleep,ὁ ὕπνος
+ambient,τὸ περιβάλλον
+hostile,ὁ ἐχθρός
+music,ἡ μουσική
+menu,τὸ μενού
+teleport,τὸ τηλεμεταφέρω
+broken,ὁ κλασμένος
+crafted,ὁ κατασκευασμένος
+dropped,ὁ πεσών
+killed,ὁ φονευθείς
+mined,ὁ ἐξορυγμένος
+used,ὁ χρησιμοποιημένος
+general,ὁ γενικός
+items,τὰ ἀντικείμενα
+animals,τὰ ζῷα
+distance,ἡ ἀπόσταση
+recipe book,τὸ βιβλίο συνταγῶν
+wooden planks,τὰ ξύλινα πλακίδια
+tree,τὸ δένδρον
+mouse,ὁ μῦς
+destroy,καταστρέφω
+social interactions,αἱ κοινωνικαὶ ἐπαφαί
+netherite upgrade,ἡ ἀναβάθμιση νεθερίτη
