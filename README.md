@@ -55,13 +55,13 @@ With this said, some sections of the file are much easier to translate. We may b
 
 The goal is to create a translation that meets the following criteria:
 
-> Accuracy: How closely the translation captures the original meaning in the context of Minecraft.
->
-> Clarity: How easily the translation can be understood by someone familiar with Koine Greek.
->
-> Elegance: How aesthetically pleasing and "natural" the translation sounds in Koine Greek.
->
-> Brevity: The conciseness of the translation.
+**Accuracy**: How closely the translation captures the original meaning in the context of Minecraft.
+
+**Clarity**: How easily the translation can be understood by someone familiar with Koine Greek.
+
+**Elegance**: How aesthetically pleasing and "natural" the translation sounds in Koine Greek.
+
+**Brevity**: The conciseness of the translation.
 
 ## The Algorithm(s)
 
