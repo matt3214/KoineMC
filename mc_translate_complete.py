@@ -19,14 +19,14 @@ def extract_amps(s):
   return matches
 
 
-pack = json.loads(open("lang/en_us.json",'rb').read())
+pack = json.loads(open("res/lang/en_us.json",'rb').read())
 items=[(k,v) for k,v in pack.items()]
 
 item=items[0]
-library.get_relevant(" ".join([item[0],item[1]]))
+print(item)
+print(library.get_relevant(" ".join([item[0],item[1]])))
 
 
-exit()
 completed=[]
 
 def escape(item):
@@ -40,7 +40,7 @@ def escape(item):
 completed = []
 
 
-batch=1
+batch=10
 for i in range(len(items)):
   current=items[i]
 
@@ -53,8 +53,7 @@ for i in range(len(items)):
 
   extras="\n---".join(historic_items)
   payload="\n".join(prepared_payload)
-
-
+  print(payload)
   system=f"""
 Translation:
 I will give you a Minecraft related term to translate into Koine / Classical Greek.
@@ -80,7 +79,7 @@ Examples:
 REMEMBER THAT THIS IS KOINE GREEK, INCLUDE DIACRITICALS!
 {extras}
 """
-  relevant_csv = get_revelant(current)
+  relevant_csv = library.get_relevant(current)
   context=f"""Here is a library of terms that may be relevant to consider when creating the translations, this library is merely a set of knowledge for you to pull from (organized as a CSV)\n{relevant_csv}"""
   
   prompt=f"""{payload}"""
