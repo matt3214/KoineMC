@@ -1,12 +1,14 @@
 # Term Library:
-- create term library
+- __create term library__
+- __text encode term library__
+- __store encoding on pinecone__ 
+- upgrade term library
   - important terms
   - new technology terms
   - important phrases
-- text encode term library
 
 # Prompts:
-- context driven prompts
+- context driven prompts, add similar terms (embedding similarity search)
 - extract output from response
 
 # Orchestration:
